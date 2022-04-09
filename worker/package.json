@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/CompSciGuy777/node-cron#readme",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-cron": "^2.0.3",
     "node-fetch": "^2.6.0",
     "redis": "^2.8.0",
